@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,java,html,css,dart,mongodb,mysql,sqlserver" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,java,html,css,dart,mongodb,mysql,postgresql" />
 </div>
